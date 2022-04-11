@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>448121049328-knbm8520to053pmn9f71eaach640v502.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.448121049328-knbm8520to053pmn9f71eaach640v502</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>448121049328-c4pah7367kaqtcjhuvtn0503nk7uaqu6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVY3s1o0W86btpqGFxKCKgoTk_X2MoWkY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>448121049328</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.menyu.mennyu_rider</string>
+	<key>PROJECT_ID</key>
+	<string>menyu-mennyu_rider</string>
+	<key>STORAGE_BUCKET</key>
+	<string>menyu-mennyu_rider.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:448121049328:ios:d1e44a8a09723a1a073235</string>
+</dict>
+</plist>

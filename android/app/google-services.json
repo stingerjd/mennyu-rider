@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448121049328",
+    "project_id": "menyu-mennyu_rider",
+    "storage_bucket": "menyu-mennyu_rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448121049328:android:2094482dd98743ae073235",
+        "android_client_info": {
+          "package_name": "com.menyu.mennyu_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448121049328-c4pah7367kaqtcjhuvtn0503nk7uaqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.menyu.mennyu_rider",
+            "certificate_hash": "3fc42e0dec9abe0218091424e4bb35f7cda7c2e6"
+          }
+        },
+        {
+          "client_id": "448121049328-3mmiitqie1q9el7r0ak36qdgehvede7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLt3j_x5YduKE5sOWQ4wqwFQuW--treY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448121049328-3mmiitqie1q9el7r0ak36qdgehvede7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
