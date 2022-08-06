@@ -1,23 +1,23 @@
 {
   "project_info": {
     "project_number": "448121049328",
-    "project_id": "menyu-mennyu_rider",
-    "storage_bucket": "menyu-mennyu_rider.appspot.com"
+    "project_id": "menyu-rider",
+    "storage_bucket": "menyu-rider.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448121049328:android:2094482dd98743ae073235",
+        "mobilesdk_app_id": "1:448121049328:android:3fc76a5028eab7b1073235",
         "android_client_info": {
-          "package_name": "com.menyu.mennyu_rider"
+          "package_name": "com.menyu.rider"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448121049328-c4pah7367kaqtcjhuvtn0503nk7uaqu6.apps.googleusercontent.com",
+          "client_id": "448121049328-aggc7959jpfff4iailc0apv6nag31hm8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.menyu.mennyu_rider",
+            "package_name": "com.menyu.rider",
             "certificate_hash": "3fc42e0dec9abe0218091424e4bb35f7cda7c2e6"
           }
         },
@@ -37,6 +37,57 @@
             {
               "client_id": "448121049328-3mmiitqie1q9el7r0ak36qdgehvede7f.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "448121049328-1h9e0olv0ol0k8d7v6g347doqn90fv97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mennyu.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448121049328:android:2094482dd98743ae073235",
+        "android_client_info": {
+          "package_name": "com.menyu.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448121049328-c4pah7367kaqtcjhuvtn0503nk7uaqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.menyu.rider",
+            "certificate_hash": "3fc42e0dec9abe0218091424e4bb35f7cda7c2e6"
+          }
+        },
+        {
+          "client_id": "448121049328-3mmiitqie1q9el7r0ak36qdgehvede7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLt3j_x5YduKE5sOWQ4wqwFQuW--treY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448121049328-3mmiitqie1q9el7r0ak36qdgehvede7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448121049328-1h9e0olv0ol0k8d7v6g347doqn90fv97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mennyu.user"
+              }
             }
           ]
         }
